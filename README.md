@@ -5,8 +5,8 @@
       If there is open project that i can learn and help with. 
       I really appreciate it and thank you.
 - 📫 How to reach me
-      - Instagram: nisha_nx88 - 
-        https://www.instagram.com/nisha_xn88/
+      - Instagram: nishanajihah._ - 
+        https://www.instagram.com/nishanajihah._/
       - Twitter: najihah_nisha - 
         https://twitter.com/najihah_nisha
       - Email: nishanajihah88@gmail.com
