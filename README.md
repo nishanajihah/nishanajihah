@@ -5,11 +5,7 @@
       If there is open project that i can learn and help with. 
       I really appreciate it and thank you.
 - 📫 How to reach me
-      - Instagram: nishanajihah._ - 
-        https://www.instagram.com/nishanajihah._/
-      - Twitter: najihah_nisha - 
-        https://twitter.com/najihah_nisha
-      - Email: nishanajihah88@gmail.com
+      https://linktr.ee/nisha.najihah
 
 <!---
 nishanajihah/nishanajihah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
