@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @nishanajihah and I love robotics and music.
-- 👀 I’m interested in AI (Artificial Intelligence) and IOT (Internet of Things)
-- 🌱 I’m currently learning C++, HTML, CSS, SASS, JAVA, PHP, PYTHON, Android studio, Flutter and DJANGO
-- 💞️ I’m looking to collaborate on any small project.
-      If there is open project that i can learn and help with. 
-      I really appreciate it and thank you.
+- 👋 Hi, I’m @nishanajihah and It simple I just love robotics and music.
 - 📫 How to reach me
       https://linktr.ee/nisha.najihah
 
