@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @nishanajihah and It simple I just love robotics and music.
 - 📫 How to reach me
       https://linktr.ee/nisha.najihah
-- Connect with me:
--       nishanajihah.dev@gmail.com
--       nishanajihah.com
 
 <!---
 nishanajihah/nishanajihah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
